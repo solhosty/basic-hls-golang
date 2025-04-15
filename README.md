@@ -1,6 +1,6 @@
 ## Single HLS Video Server
-1. Encoding/Transcoding happens away from server.
-2. Server serves HLS files to clients.
+1. Converting happens away from server.
+2. Server serves .m3u8 files to clients via referenced .mp4.
 3. Clients play HLS files using HLS.js or hls-video-element.
 
 ## Short term adds:
