@@ -6,7 +6,7 @@
 ## Short term adds:
 - Different qualities/resolution.
 - Different captions for the file.
-- Other options match.
+- Other basic video options to match.
 
 ## Long term TODOs:
 - Implement concurrency for transcoding tasks.
