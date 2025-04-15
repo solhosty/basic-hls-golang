@@ -19,6 +19,11 @@ ACCESS
 - Allow master access of mp4 file.
 - Introduce signing to access a video.
 
+STORAGE 
+- Best place for video storage when scaling.
+- Best way to generate a backup for the current data.
+- Snapshots? 
+
 TRANSCODING
 - Implement concurrency for transcoding tasks.
 - Implement caching for transcoded files.
