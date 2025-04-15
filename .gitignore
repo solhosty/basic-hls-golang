@@ -1,0 +1,6 @@
+videos/*.ts
+videos/*.mp4
+videos/*.m3u8
+
+
+# we may want to use one of these, best not to generalize folder

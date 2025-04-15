@@ -3,7 +3,12 @@
 2. Server serves HLS files to clients.
 3. Clients play HLS files using HLS.js or hls-video-element.
 
-## TODOs:
+## Short term adds:
+- Different qualities/resolution.
+- Different captions for the file.
+- Other options match.
+
+## Long term TODOs:
 - Implement concurrency for transcoding tasks.
 - Implement caching for transcoded files.
 - Implement error handling for transcoding tasks.
@@ -14,3 +19,9 @@
 - Implement throttling for transcoding tasks.
 - Implement retry mechanism for transcoding tasks.
 # basic-hls-golang
+
+
+## Command to convert video
+```bash
+bash scripts/convert.bash
+```
