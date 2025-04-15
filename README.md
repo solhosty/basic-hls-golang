@@ -18,8 +18,6 @@
 - Implement rate limiting for transcoding tasks.
 - Implement throttling for transcoding tasks.
 - Implement retry mechanism for transcoding tasks.
-# basic-hls-golang
-
 
 ## Command to convert video
 ```bash
